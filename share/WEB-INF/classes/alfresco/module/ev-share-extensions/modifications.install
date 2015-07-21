@@ -1,0 +1,9 @@
+add|/WEB-INF/lib/ev-share-extensions.jar
+add|/WEB-INF/classes/alfresco/module/ev-share-extensions/log4j.properties
+add|/WEB-INF/classes/alfresco/web-extension/messages/evShareExt.properties
+add|/WEB-INF/classes/alfresco/web-extension/messages/evShareExt_en.properties
+add|/WEB-INF/classes/alfresco/web-extension/ev-share-extensions-context.xml
+add|/WEB-INF/classes/alfresco/web-extension/share-config-custom.xml
+add|/WEB-INF/classes/alfresco/web-extension/share-form-config-custom.xml
+update|/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/share/pages/faceted-search/faceted-search.get.html.ftl|/WEB-INF/classes/alfresco/module/backup/0100735b-2c84-11e5-8404-7d6bb8cc8091.bin
+mkdir|/WEB-INF/classes/alfresco/web-extension/messages

@@ -1,0 +1,13 @@
+add|/WEB-INF/lib/repo-amp.jar
+add|/WEB-INF/classes/alfresco/extension/templates/webscripts/helloworld.get.desc.xml
+add|/WEB-INF/classes/alfresco/extension/templates/webscripts/helloworld.get.js
+add|/WEB-INF/classes/alfresco/extension/templates/webscripts/helloworld.get.html.ftl
+add|/WEB-INF/classes/alfresco/module/repo-amp/model/content-model.xml
+add|/WEB-INF/classes/alfresco/module/repo-amp/model/workflow-model.xml
+add|/WEB-INF/classes/alfresco/module/repo-amp/context/webscript-context.xml
+add|/WEB-INF/classes/alfresco/module/repo-amp/context/bootstrap-context.xml
+add|/WEB-INF/classes/alfresco/module/repo-amp/context/service-context.xml
+add|/WEB-INF/classes/alfresco/module/repo-amp/module-context.xml
+add|/WEB-INF/classes/alfresco/module/repo-amp/alfresco-global.properties
+mkdir|/WEB-INF/classes/alfresco/module/repo-amp/model
+mkdir|/WEB-INF/classes/alfresco/module/repo-amp/context
